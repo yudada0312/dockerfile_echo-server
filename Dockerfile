@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:11.6
 MAINTAINER yudada <yudada0312@gmail.com>
 
 #RUN apk update && apk upgrade
